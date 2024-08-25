@@ -24,7 +24,8 @@
 }
 
 .hsButton {
-    color: #222222;
+    color: white;
+    background: #222222
     float: right;
     font-size: 70%;
     margin-left: 10px;
