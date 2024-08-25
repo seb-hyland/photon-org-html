@@ -1,0 +1,16 @@
+# -*- mode: org; -*-
+
+#+OPTIONS: html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/seb-hyland/photon-org-html/master/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/seb-hyland/photon-org-html/master/css/bigblow.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/seb-hyland/photon-org-html/master/css/hideshow.css"/>
+
+#+HTML_HEAD: <script type="text/javascript" src="https://raw.githubusercontent.com/seb-hyland/photon-org-html/master/js/jquery-1.11.0.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://raw.githubusercontent.com/seb-hyland/photon-org-html/master/js/jquery-ui-1.10.2.min.js"></script>
+
+#+HTML_HEAD: <script type="text/javascript" src="https://raw.githubusercontent.com/seb-hyland/photon-org-html/master/js/jquery.localscroll-min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://raw.githubusercontent.com/seb-hyland/photon-org-html/master/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://raw.githubusercontent.com/seb-hyland/photon-org-html/master/js/jquery.zclip.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://raw.githubusercontent.com/seb-hyland/photon-org-html/master/js/bigblow.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://raw.githubusercontent.com/seb-hyland/photon-org-html/master/js/hideshow.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
