@@ -194,7 +194,7 @@ ul, ol {
 }
 
 dt {
-    color: #000000;
+    color: #1572AE;
     font-weight: bold;
 }
 
@@ -613,7 +613,7 @@ span.todo .selected {
 
 #minitoc {
     background-color: #FFFFFF;
-    border: 1px solid #FFFFFF;
+    border: 1px solid #E4E4E4;
     color: #484848;
     line-height: 1.2em;
     margin: 12px;
