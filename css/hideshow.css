@@ -29,12 +29,14 @@
     float: right;
     font-size: 70%;
     margin-left: 10px;
+    font-family: Montserrat;
 }
 
     .hsButton:hover {
-         background: #FBE448;
-         color: black;
-         cursor: pointer;
+        background: #FBE448;
+        color: black;
+        cursor: pointer;
+	font-family: Montserrat;
     }
 
 .ellipsis {
