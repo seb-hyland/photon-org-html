@@ -109,7 +109,7 @@ html, body {
 
 body {
     color: #333333;
-    font: 13px/1.385 arial,helvetica,clean,sans-serif;
+    font: 13px/1.385 lora,arial,helvetica,clean,sans-serif;
     margin: 0 .1em;
     padding: 0;
 }
@@ -135,8 +135,8 @@ h1 {
 }
 
 h2 {
-    border-bottom: 4px solid #506A88;
-    color: #67B3E3;
+    border-bottom: 4px solid #222222;
+    color: #222222;
     font-size: 20px;
 }
 
