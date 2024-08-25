@@ -39,9 +39,9 @@ $(function() {
     }
 });
 
-$(function() {
-    $('<div id="minitoc" class="dontprint"></div>').prependTo('body');
-});
+// $(function() {
+//     $('<div id="minitoc" class="dontprint"></div>').prependTo('body');
+// });
 
 // generate contents of minitoc
 // function generateMiniToc(divId) {
@@ -162,13 +162,13 @@ $(document).ready(function() {
     // Set default animation
     $('#content').tabs('option', 'show', true);
 
-    // Rebuild minitoc when a tab is activated
-    $('#content').tabs({
-        activate: function(event, ui) {
-            var divId = ui.newTab.attr('aria-controls');
-	    //            generateMiniToc(divId);
-        }
-    });
+    //    // Rebuild minitoc when a tab is activated
+    //    $('#content').tabs({
+    //        activate: function(event, ui) {
+    //            var divId = ui.newTab.attr('aria-controls');
+    //	    //            generateMiniToc(divId);
+    //        }
+    //    });
 
     // Required to get the link of the tab in URL
     $('#content ul').localScroll({
@@ -182,11 +182,11 @@ $(document).ready(function() {
         hsExpandAnchor(document.location.hash);
         selectTabAndScroll(document.location.hash);
     }
-    // If no hash, build the minitoc anyway for selected tab
-    else {
-        var divId = $('#content div[aria-expanded=true]').attr('id');
-	//        generateMiniToc(divId);
-    }
+	//    // If no hash, build the minitoc anyway for selected tab
+    //    else {
+    //        var divId = $('#content div[aria-expanded=true]').attr('id');
+    //	//        generateMiniToc(divId);
+    //    }
 
     // Handle click on internal links
     $('.ui-tabs-panel a[href^="#"]').click(function(e) {
