@@ -297,7 +297,7 @@ $(function() {
     // }
 
     // return false;
-}
+//}
 
 // $(function() {
     //     $('<div id="left-panel-wrapper" class="dontprint"><div id="left-panel-contents" style="opacity: 0.9"></div><div id="left-panel-button" class="dontprint"><a href="#">Dashboard</a></div></div>')
