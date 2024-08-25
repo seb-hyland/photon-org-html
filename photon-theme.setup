@@ -14,3 +14,6 @@
 #+HTML_HEAD: <script type="text/javascript" src="https://seb-hyland.github.io/photon-org-html/js/bigblow.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://seb-hyland.github.io/photon-org-html/js/hideshow.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="https://seb-hyland.github.io/photon-org-html/lib/js/jquery.stickytableheaders.min.js"></script>
+
+
+#+HTML_HEAD: <style> @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); </style>
